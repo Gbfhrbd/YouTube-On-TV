@@ -1,0 +1,12 @@
+node_modules/
+.git/
+windows_installer/
+dist/
+msi/
+msi-packager.js
+.DS_Store
+package-lock.json
+*.js
+!renderers/main/injection.js
+!renderers/main/offline_banner.js
+!renderers/main/titleBar.js
