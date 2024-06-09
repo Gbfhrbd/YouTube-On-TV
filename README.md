@@ -2,8 +2,8 @@
 <img src="./build/icon.png" width=90px>
 
 # **YouTube TV**
-[![Downloads](https://img.shields.io/github/downloads/marcosrg9/YouTubeTV/total.svg?color=FF0000&label=Total%20downloads)](https://github.com/marcosrg9/YouTubeTV/releases/)
-[![Downloads](https://img.shields.io/github/downloads/marcosrg9/YouTubeTV/v2.4.1/total.svg?color=blue&label=2.4.1%20Downloads)](https://github.com/marcosrg9/YouTubeTV/releases/tag/v2.4.1)
+[![Downloads](https://img.shields.io/github/downloads/marcosrg9/YouTubeTV/total.svg?color=FF0000&label=Total%20downloads)](https://www.youtube.com/tv)
+[![Downloads](https://img.shields.io/github/downloads/marcosrg9/YouTubeTV/v2.4.1/total.svg?color=blue&label=2.4.1%20Downloads)](https://www.youtube.com/tv#)
 
 Simple YouTube TV Client for desktop based on [electron](https://www.electronjs.org/). You can connect a compatible device such as a phone or computer with Google Chrome and send videos to the app for viewing, just like on ChromeCast or smart TVs with YouTube.
 
